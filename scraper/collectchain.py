@@ -4,7 +4,7 @@
 # (aucun des deux ne peut importer l'autre). La question n'est donc pas « ou
 # va-t-il ? » mais « est-il identique PARTOUT ? » — le seul controle qui vaille.
 #
-# ⛔ IL EXISTE UNE TROISIEME COPIE, DANS `VeVePreda/scrapeur-veve`, ET ELLE EST
+# ⛔ IL EXISTE UNE TROISIEME COPIE, DANS `Leonessa2/scrapeur-veve`, ET ELLE EST
 # DELIBEREMENT DIFFERENTE : elle importe `scraper.sentinelle_sources` (🩺 A4) et
 # porte `aggregate_listing_daily`. astronema et paolo n'ont PAS la sentinelle :
 # y deposer la version de scrapeur-veve leve un ImportError au demarrage et
